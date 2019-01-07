@@ -1,0 +1,1 @@
+A repository to sharpen basic development skills in Java and surrounding frameworks.
